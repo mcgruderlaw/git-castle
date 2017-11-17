@@ -3,3 +3,5 @@
 	name = David E. McGruder
 [core]
 [core]
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com
